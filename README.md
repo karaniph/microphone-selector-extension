@@ -9,7 +9,7 @@ Official support repository, user documentation, and issue tracker for the **Mic
 ---
 
 ## 📌 Quick Links
-* 🌐 **Main Audio Calculator Web App:** [electronicszone.pro](https://electronicszone.pro/calculators/microphone-selector)
+* 🌐 **Main Audio Calculator Web App:** [soundsystemcalc.com/](https://soundsystemcalc.com/microphone-finder/)
 * 🛒 **Install Extension:** [Chrome Web Store Listing](https://chromewebstore.google.com/detail/microphone-selector-recom/hejogbaiadbgigdojpmlcppaflajodkh)
 * 💬 **Report Bugs / Features:** [GitHub Issues Tracker](../../issues)
 
@@ -45,7 +45,7 @@ The tool is designed to help users make more informed microphone decisions witho
 
 * **Microphone Comparison:** Compare microphone specifications and characteristics to make it easier to understand the differences between potential choices.
 
-* **Quick Access Audio Tools:** Direct integration with interactive audio tools, amplifier pairing guides, and sound calculation utilities at [electronicszone.pro](https://electronicszone.pro/calculators/microphone-selector).
+* **Quick Access Audio Tools:** Direct integration with interactive audio tools, amplifier pairing guides, and sound calculation utilities at [soundsystem calc](https://www.soundsystemcalc.com/microphone-finder/).
 
 * **Lightweight & Privacy-Focused:** Zero tracking, no background telemetry, and offline-capable utilities.
 
@@ -103,4 +103,4 @@ Suggestions for additional microphone categories, use cases, comparison features
 
 This repository houses user documentation and issue tracking for the extension. 
 
-Developed & Maintained by [Electronics Zone](https://electronicszone.pro) — Audio Engineering Tools & Calculators.
+Developed & Maintained by [soundsystem calc](https://soundsystemcalc.com/) — Audio Engineering Tools & Calculators.
